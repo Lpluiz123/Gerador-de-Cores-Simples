@@ -45,6 +45,6 @@ Se você tem ideias para melhorar o projeto, sinta-se à vontade para abrir uma 
 
 ## ✒️ Autor
 
-* **Lpluiz123** - [Link para seu perfil do GitHub](https://github.com/Lpluiz123)
+* **Lpluiz123** - (https://github.com/Lpluiz123)
 
 ---
