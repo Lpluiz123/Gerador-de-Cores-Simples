@@ -36,21 +36,6 @@ Este projeto foi construído com as seguintes tecnologias web:
 
 ---
 
-## 🛠️ Instalação e Execução
-
-Para rodar o projeto localmente, siga estes passos:
-
-1.  **Clone o repositório**:
-    ```sh
-    git clone [URL_DO_SEU_REPOSITÓRIO]
-    ```
-2.  **Navegue até o diretório do projeto**:
-    ```sh
-    cd [NOME_DA_PASTA_DO_PROJETO]
-    ```
-3.  **Abra o arquivo `index.html`** em seu navegador.
-
----
 
 ## 🤝 Contribuição
 
